@@ -1,0 +1,118 @@
+
+
+@media (max-width: 767px){
+
+	.navbar-default .navbar-toggle{
+		background: none;
+		border: none;
+	}
+
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .navbar-toggle:focus
+	{
+		background: none;
+	}
+
+	.navbar-default .navbar-brand,
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus
+	{
+		font-size: 30px;
+	}
+
+	.navbar-default .navbar-collapse{
+		text-align: center;
+		border: none;
+		background: rgba(0,0,0,.9);
+	}
+
+
+    .header .caption{
+        text-align: center;
+    }
+
+    .header .caption h1{
+        font-size: 250%;
+    }
+
+    .header .caption h4 {
+        font-size: 140%;
+        margin-top: 20px;
+    }
+
+	.contact .cont-info,
+	.serv-us .us-content
+	{
+		margin-bottom: 50px;
+	}
+
+	.team .team-info{
+		width: 100%;
+	}
+
+	.portfolio .filtering span {
+		padding: 0 5px;
+	}
+
+	.clients .section{
+		width: 90%;
+	}
+
+	.pricing .Pricing-Taples {
+		transform: none;
+	}
+
+	.blog .post-lion-2 {
+		transform: none;
+	}
+
+	.posts .main-post .title h2 {
+		font-size: 25px;
+	}
+
+	.post .Single h3 {
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+	.post .Single blockquote {
+		padding: 0;
+	}
+
+}
+
+@media (max-width: 991px){
+
+	.team .team-info .media-icon span {
+		width: 19px;
+	    height: 19px;
+	    font-size: 16px;
+	    line-height: 19px;
+    	margin: 1px 1px;
+	}
+
+	.team .team-info .media-icon span:hover {
+	    font-size: 16px;
+	}
+
+	.team .team-info{
+		padding: 50px 0;
+	}
+
+	.portfolio .item-img,
+	.portfolio .item-img img{
+		width: 100% !important;
+	}
+
+	.pricing .Pricing-Taples {
+		transform: none;
+	}
+
+	.blog .post-lion-2 {
+		transform: none;
+	}
+}
+
+@media (max-width: 450px){
+	
+}
