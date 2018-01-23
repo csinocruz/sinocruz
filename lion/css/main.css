@@ -132,7 +132,7 @@ svg path, svg line {
 
 .header .caption h1 {
     font-size: 300%;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 4em;
     color: #d1b389;
 }
