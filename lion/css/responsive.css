@@ -26,7 +26,6 @@
 		background: rgba(0,0,0,.9);
 	}
 
-
     .header .caption{
         text-align: center;
     }
@@ -111,8 +110,23 @@
 	.blog .post-lion-2 {
 		transform: none;
 	}
+
+	#initials {
+		display: inline;
+		font-weight: 100;
+		font-size: 38px;
+		color: #d1b389;
+		padding-top: 40px;
+		padding-left: 40px;
+	}
 }
 
 @media (max-width: 450px){
 	
+}
+
+@media (max-width: 1200px) {
+	#fullname {
+		font-size: 3vmin;
+	}
 }
