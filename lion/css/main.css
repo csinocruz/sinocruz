@@ -264,6 +264,10 @@ svg path, svg line {
 /* ------------------------------------ Counter ------------------------------------- */
 /* ---------------------------------------------------------------------------- */
 
+.icons {
+    width: 75px;
+}
+
 .count-to {
     background: url('../img/table-fence-structure-wood-grain-texture-819062-pxhere.com.jpg') no-repeat fixed;
     background-size: cover;
